@@ -1,9 +1,9 @@
 # CLASS, OBJECTS, ATTTRIBUTES, & METHODS
 
-## CLASS
+## Class
 **Cats**
 
-## ATTRIBUTES
+## Attributes
 
   * is_declawed (boolean)
   * color (string)
